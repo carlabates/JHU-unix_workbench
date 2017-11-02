@@ -16,11 +16,11 @@ A local *habitation* and a **name**.
 3. list
 
 Here is `some code` in the middle of a sentence.
-. . .
+```
 This is
 a block
 of code.
-. . . 
+```
 
 How you make [a link] (https://wikipedia.org/).
 
